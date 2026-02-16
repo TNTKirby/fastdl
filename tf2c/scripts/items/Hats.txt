@@ -1,0 +1,72 @@
+// ========================== HOST COSMETICS =========================
+// This is an item schema that gets around TF2C's non-cosmetic slots 
+// with a Yaki's give_tf_weapon Vscript. If you're a client, modifying
+// this file will do nothing because this schema is server-sided.
+//
+// This only will work for the host.
+// ===================================================================
+"items_game"
+{
+	"items"
+	{
+	// ===== SCOUT =====
+		"40000"
+		{
+			"prefab" 			"TK_Cosmetic"
+			"name"				"Orion's Belt"
+			"item_name"			"Orion's Belt"
+			"extra_wearable" "models/workshop_partner/player/items/scout/tr_orions_belt/tr_orions_belt.mdl"		
+		}
+		"40001"
+		{
+			"prefab" 			"TK_Cosmetic"
+			"name"				"Airborne Attire"
+			"item_name"			"Airborne Attire"
+			"extra_wearable" "models/workshop/player/items/all_class/spr17_wingman/spr17_wingman_scout.mdl"
+		}
+	// ===== DEMOMAN =====
+		"44000"
+		{
+			"prefab" 			"TK_Cosmetic"
+			"name"				"Tartan Tyrolean"
+			"item_name"			"Tartan Tyrolean"
+			"extra_wearable" "models/workshop/player/items/demo/xms2013_demo_plaid_hat/xms2013_demo_plaid_hat.mdl"
+		}
+		"44001"
+		{
+			"prefab" 			"TK_Cosmetic"
+			"name"				"King of Scotland Cape"
+			"item_name"			"King of Scotland Cape"
+			"extra_wearable" "models/workshop_partner/player/items/demo/tw_kingcape/tw_kingcape.mdl"
+		}
+		"44002"
+		{
+			"prefab" 			"TK_Cosmetic"
+			"name"				"Prince Tavish's Crown"
+			"item_name"			"Prince Tavish's Crown"
+			"extra_wearable" "models/player/items/demo/crown.mdl"
+		}
+		"44003"
+		{
+			"prefab" 			"TK_Cosmetic"
+			"name"				"Bushi-Dou"
+			"item_name"			"Bushi-Dou"
+			"extra_wearable" "models/workshop/player/items/demo/sbox2014_demo_samurai_armour/sbox2014_demo_samurai_armour.mdl"
+		}
+		"44004"
+		{
+			"prefab" 			"TK_Cosmetic"
+			"name"				"Cool Breeze"
+			"item_name"			"Cool Breeze"
+			"extra_wearable" "models/workshop/player/items/demo/demo_kilt/demo_kilt.mdl"
+		}
+	}
+	"prefabs"
+	{
+	"TK_Cosmetic"
+		{
+		"item_class"	"tf_wearable"
+		"image_inventory"		"backpack/weapons/w_models/w_toolbox_large.vtf"
+		}
+	}
+}

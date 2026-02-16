@@ -1,0 +1,9 @@
+#base "LiveTF2Prefabs.txt" // Live TF2 Prefabs (NEEDS TO BE INCLUDED FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
+
+#base "LiveTF2Weapons.txt" // Live TF2 Weapons (Unique Colored: Golden Yellow)
+#base "Gensokyo.txt" // Gensokyo Custom Weapons (Collector's Colored: Shrine Maiden Red)
+#base "TheZone.txt" // The Zone's Custom Weapons (Vintage Colored: Navy Blue Zoned)
+#base "Quinnz.txt" // Quinnz's Custom Weapons (Unusual Colored: Questionable Purple)
+#base "Hats.txt" // Host Hats
+
+#base "items_game.txt" // TF2C Item Schema (Needs to be loaded last for overrides to work)
