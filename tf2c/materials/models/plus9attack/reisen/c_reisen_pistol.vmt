@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/plus9attack/reisen/c_reisen_pistol"
+	"$translucent" 1
+	"$vertexcolor" 1
+}

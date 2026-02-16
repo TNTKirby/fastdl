@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "console/models/workshop/weapons/c_models/c_riding_crop/gohei_large"
+	"$translucent" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui/replay/thumbnails/models/weapons/c_models/c_shotgun/hoshino_shotgun_large"
+	"$translucent" 1
+	"$vertexcolor" 1
+}

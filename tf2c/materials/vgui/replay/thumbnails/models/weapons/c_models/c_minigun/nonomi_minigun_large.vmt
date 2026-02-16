@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui/replay/thumbnails/models/weapons/c_models/c_minigun/nonomi_minigun_large"
+	"$translucent" 1
+	"$vertexcolor" 1
+}
