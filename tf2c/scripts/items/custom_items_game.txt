@@ -4,5 +4,7 @@
 #base "Gensokyo.txt" // Gensokyo Custom Weapons (Collector's Colored: Shrine Maiden Red)
 #base "TheZone.txt" // The Zone's Custom Weapons (Vintage Colored: Navy Blue Zoned)
 #base "Quinnz.txt" // Quinnz's Custom Weapons (Unusual Colored: Questionable Purple)
+#base "TK.txt" // TNTKirby's Host Weapons (Developer Colored: Valve's Ultra Magenta)
+#base "Hats.txt" // TNTKirby's Host Weapons (Developer Colored: Valve's Ultra Magenta)
 
-#base "items_game.txt" // TF2C Item Schema (Needs to be loaded last for overrides to work)
+#base "TK_items_game.txt" // TF2C Item Schema (Needs to be loaded last for overrides to work)
