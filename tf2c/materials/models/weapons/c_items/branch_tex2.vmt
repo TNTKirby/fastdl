@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/c_items/branch_tex2"
+	"$bumpmap" "models/effects/flat_normal" 
+}
