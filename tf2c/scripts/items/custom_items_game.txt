@@ -1,0 +1,16 @@
+// ========== CUSTOM ITEM SCHEMA ==========
+// This custom item schema is modular with
+// other schemas you can switch around.
+// ========================================
+
+// Live TF2 Prefabs (NEEDS TO BE INCLUDED FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
+#base "LiveTF2Prefabs.txt"
+
+// Keep or comment out lines to add or remove weapon schemas.
+#base "LiveTF2Weapons.txt" // Live TF2 Weapons (Unique Colored: Golden Yellow)
+#base "Gensokyo.txt" // Gensokyo Custom Weapons (Collector's Colored: Shrine Maiden Red)
+#base "TheZone.txt" // The Zone's Custom Weapons (Vintage Colored: Navy Blue Zoned)
+#base "Quinnz.txt" // Quinnz's Custom Weapons (Unusual Colored: Questionable Purple)
+
+// TF2C Item Schema (Needs to be loaded last for overrides to work)
+#base "TK_items_game.txt"
