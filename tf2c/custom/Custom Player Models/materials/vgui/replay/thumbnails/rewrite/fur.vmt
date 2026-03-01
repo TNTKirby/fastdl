@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+ "$basetexture" "vgui/replay/thumbnails/rewrite/Fur"
+ "$halflambert" 1
+ "$nocull" 0
+ $ambientocclusion "0.5"
+	"$lightwarptexture"	"vgui/replay/thumbnails/rewrite/Warp_bw"
+}
