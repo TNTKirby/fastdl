@@ -14,4 +14,4 @@
 #base "Quinnz.txt" // Quinnz's Custom Weapons (Unusual Colored: Questionable Purple)
 
 // TF2C Item Schema (Needs to be loaded last for overrides to work)
-#base "TK_items_game.txt" // TK_item_game.txt is modified version of items_game.txt
+#base "TK_items_game.txt" // TK_item_game.txt is copied version of items_game.txt and can be customized.
