@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
- "$basetexture" "vgui/replay/thumbnails/rewrite/Mouth"
- "$nocull" 0
- "$alphatest" 1
- $ambientocclusion "0.5"
-}
