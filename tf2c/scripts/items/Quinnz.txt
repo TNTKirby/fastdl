@@ -2825,7 +2825,7 @@ Weapon by 'Sigara'"
 	// ===== QUINNZ'S CUSTOM ATTRIBUTES =====
 	"attributes"
 	{
-		"7000"
+		"40000"
 		{
 			"name"					"sun on stick penalty"
 			"item_class"			"mult_dmg"
@@ -2833,7 +2833,7 @@ Weapon by 'Sigara'"
 			"description_format"	"value_is_additive"
 			"effect_type"			"negative"
 		}
-		"7001"
+		"40001"
 		{
 			"name"					"melee heal allies on hit"
 			"item_class"			"melee_heal_allies_on_hit"
