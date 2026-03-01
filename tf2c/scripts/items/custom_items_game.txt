@@ -1,5 +1,4 @@
 // ========== CUSTOM ITEM SCHEMA ==========
-// Needs to be here for fastdl to work lol
 // This custom item schema is modular with
 // other schemas you can switch around.
 // ========================================
