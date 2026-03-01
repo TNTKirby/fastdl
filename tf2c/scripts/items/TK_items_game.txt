@@ -949,7 +949,7 @@
 		}
 		"33" // Uberspritze
 		{
-			"name"				"The Ubersaw"
+			"name"				"The Uberspritze"
 			"item_name"			"#TF_Weapon_Uberspritze"
 			"item_type_name"	"#TF_Weapon_Syringe"
 			"item_description"	"#TF_Weapon_Uberspritze_Desc"
