@@ -6,9 +6,6 @@
 // move this txt file folder to "Disabled"
 // ========================================
 
-// TF2C Item Schema (Modified)
-#base "TK_items_game.txt"
-
 // Live TF2 Prefabs (NEEDS TO BE LOADED FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
 #base "LiveTF2Prefabs.txt"
 
@@ -17,3 +14,6 @@
 #base "Gensokyo.txt" // Gensokyo Custom Weapons (Collector's Colored: Shrine Maiden Red)
 #base "TheZone.txt" // The Zone's Custom Weapons (Vintage Colored: Navy Blue Zoned)
 #base "Quinnz.txt" // Quinnz's Custom Weapons (Unusual Colored: Questionable Purple)
+
+// TF2C Item Schema (Needs to be loaded last for overrides to work)
+#base "TK_items_game.txt" // TK_item_game.txt is modified version of items_game.txt
