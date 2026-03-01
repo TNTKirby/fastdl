@@ -1,9 +1,12 @@
 // ========== CUSTOM ITEM SCHEMA ==========
+// Needs to be here for fastdl to work lol
 // This custom item schema is modular with
 // other schemas you can switch around.
+// If you're joining acustom weapons server
+// move this txt file folder to "Disabled"
 // ========================================
 
-// Live TF2 Prefabs (NEEDS TO BE INCLUDED FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
+// Live TF2 Prefabs (NEEDS TO BE baseD FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
 #base "LiveTF2Prefabs.txt"
 
 // Keep or comment out lines to add or remove weapon schemas.
@@ -13,4 +16,4 @@
 #base "Quinnz.txt" // Quinnz's Custom Weapons (Unusual Colored: Questionable Purple)
 
 // TF2C Item Schema (Needs to be loaded last for overrides to work)
-#base "TK_items_game.txt"
+#base "TK_items_game.txt" // TK_item_game.txt used for enabling item schema in menu/not on server. | Use "item_game.txt" for base item schema

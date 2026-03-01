@@ -1009,7 +1009,7 @@ Weapon by: 'Quinnz'"
 			"image_inventory_size_w" "128"
 			"image_inventory_size_h" "82"
 			"model_player" "models/weapons/c_models/c_dragon_flamethrower/c_dragon_flamethrower.mdl"
-                        "extra_wearable" "models/workshop/player/items/pyro/hwn2025_hellscape/hwn2025_hellscape.mdl"
+            "extra_wearable" "models/workshop/player/items/pyro/hwn2025_hellscape/hwn2025_hellscape.mdl"
 			"attach_to_hands" "1"
 			"item_quality" "completed"
 			"propername" "1"
@@ -1311,7 +1311,8 @@ Weapon by: 'Quinnz'"
 			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
 			"drop_sound"			"ui/item_light_gun_drop.wav"
 		}
-		"32401"
+	
+		"32401" // Grenade Jumper
 		{
 			"name" "GRENADEJUMPERLOL"
 			"first_sale_date" "2010/09/29"
