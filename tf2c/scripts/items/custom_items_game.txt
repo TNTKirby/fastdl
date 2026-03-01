@@ -6,7 +6,7 @@
 // move this txt file folder to "Disabled"
 // ========================================
 
-// Live TF2 Prefabs (NEEDS TO BE baseD FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
+// Live TF2 Prefabs (NEEDS TO BE LOADED FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
 #base "LiveTF2Prefabs.txt"
 
 // Keep or comment out lines to add or remove weapon schemas.
@@ -19,4 +19,4 @@
 #base "TK.txt" // TNTKirby's Host Weapons (Developer Colored: Valve's Ultra Magenta) | You may not modify this file.
 
 // TF2C Item Schema (Needs to be loaded last for overrides to work)
-#base "TK_items_game.txt" // TK_item_game.txt used for enabling item schema in menu/not on server. | Use "item_game.txt" for base item schema
+#base "TK_items_game.txt" // TK_item_game.txt is modified version of items_game.txt
