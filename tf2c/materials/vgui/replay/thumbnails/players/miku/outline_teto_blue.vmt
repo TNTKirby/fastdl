@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/players/miku/alpha"
+	$translucent 1
+}
