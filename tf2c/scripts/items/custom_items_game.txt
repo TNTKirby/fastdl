@@ -2,8 +2,6 @@
 // Needs to be here for fastdl to work lol
 // This custom item schema is modular with
 // other schemas you can switch around.
-// If you're joining acustom weapons server
-// move this txt file folder to "Disabled"
 // ========================================
 
 // Live TF2 Prefabs (NEEDS TO BE LOADED FOR LIVETF2WEAPONS & CUSTOM WEAPONS)
